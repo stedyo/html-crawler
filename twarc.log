@@ -1,0 +1,10 @@
+2022-01-04 19:26:59,679 INFO loading None profile from config /Users/szd/.twarc
+2022-01-04 19:27:02,204 WARNING process received SIGNT, stopping
+2022-01-04 19:36:00,641 INFO loading None profile from config /Users/szd/.twarc
+2022-01-04 19:36:29,511 WARNING process received SIGNT, stopping
+2022-01-04 19:36:31,068 INFO loading None profile from config /Users/szd/.twarc
+2022-01-04 19:37:39,497 INFO loading None profile from config /Users/szd/.twarc
+2022-01-04 19:37:39,497 INFO creating http session
+2022-01-04 19:37:39,497 INFO creating OAuth1 user authentication
+2022-01-04 19:37:39,497 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-01-04 19:40:04,794 INFO loading None profile from config /Users/szd/.twarc
